@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Javier's MkDocs Demo
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
